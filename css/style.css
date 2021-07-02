@@ -195,4 +195,14 @@ a:hover{
         left: 85px;
         bottom: -20px;
     }
+    .football{
+        position: absolute;
+        bottom: 30px;
+        right: 120px;
+    }
+    .Football{
+        position: absolute;
+        bottom: 30px;
+        left: 110px;
+    }
   }
